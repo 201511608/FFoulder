@@ -938,7 +938,7 @@ int main()
 
 double Sum (double a, double b)
 {
-	cout << endl << "i am in INT";
+	cout << endl << "i am in SUM";
 	return a + b;
 
 }
@@ -946,7 +946,7 @@ double Sum (double a, double b)
 
 int Sum(int a, int b)
 {
-	cout << endl << "i am in DOUBLE";
+	cout << endl << "i am in SUM";
 	return a + b;
 }
 
